@@ -1,0 +1,223 @@
+model	dataset	trained	epoch_no	perturb_mec	sigma	epsilon	clip_norm	batch_size	num_images	restarts	OPTIM	cost_fn	indices	weights	scoring	init	tv	opt_score	psnr	test_mse	feat_mse	target_id	timing	dtype	val_acc	rec_img	gt_img
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0057	47.0145	0.0002	0.0000	2328	0:02:24.316085	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0032	46.4693	0.0002	0.0000	8516	0:02:24.338874	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0096	47.9713	0.0002	0.0000	5314	0:02:24.275427	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0111	47.2339	0.0002	0.0000	846	0:02:24.583672	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0141	36.8833	0.0022	0.0000	9221	0:02:23.734831	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0089	49.7883	0.0001	0.0000	3313	0:02:24.237042	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0057	47.4368	0.0002	0.0000	1033	0:02:24.071519	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0409	36.0311	0.0026	0.0001	8393	0:02:24.130301	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0094	48.6485	0.0001	0.0000	2597	0:02:24.074401	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0130	44.7996	0.0003	0.0000	3193	0:02:24.460603	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0188	36.7140	0.0022	0.0000	9392	0:02:27.325215	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0220	44.0161	0.0004	0.0000	5499	0:02:30.091079	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0439	32.4096	0.0060	0.0000	6668	0:02:30.360211	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0202	42.0292	0.0007	0.0000	9453	0:02:30.514257	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0130	43.4072	0.0005	0.0000	9467	0:02:26.376188	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0118	43.2875	0.0005	0.0000	947	0:02:28.188622	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0082	47.0124	0.0002	0.0000	8831	0:02:27.992234	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0239	38.0581	0.0016	0.0000	5500	0:02:26.713325	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0124	46.5613	0.0002	0.0000	6951	0:02:24.002463	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0189	43.7652	0.0004	0.0000	4717	0:02:23.305176	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0073	46.5501	0.0002	0.0000	4509	0:02:23.002053	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0054	44.8446	0.0003	0.0000	4736	0:02:22.462113	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0013	54.6140	0.0000	0.0000	7476	0:02:22.944091	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0016	53.7154	0.0000	0.0000	285	0:02:23.211315	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0118	40.8086	0.0009	0.0000	9779	0:02:23.191119	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0029	53.6343	0.0000	0.0000	374	0:02:23.186194	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0031	56.6002	0.0000	0.0000	2418	0:02:23.170000	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0205	39.2927	0.0012	0.0001	9980	0:02:23.088257	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0019	55.1319	0.0000	0.0000	3376	0:02:23.151186	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0059	43.6950	0.0004	0.0000	6957	0:02:22.895266	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0051	41.4181	0.0008	0.0000	8106	0:02:23.003729	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0037	52.2997	0.0001	0.0000	2903	0:02:23.143623	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0151	38.6828	0.0014	0.0000	749	0:02:22.597933	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0006	57.3736	0.0000	0.0000	680	0:02:22.819470	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0003	54.5096	0.0000	0.0000	4999	0:02:22.757246	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0017	59.7344	0.0000	0.0000	1097	0:02:22.073016	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0011	55.6906	0.0000	0.0000	9972	0:02:23.024964	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0091	45.7232	0.0003	0.0000	3787	0:02:22.715219	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0052	44.6855	0.0004	0.0000	6783	0:02:23.011313	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0097	39.9114	0.0011	0.0000	4713	0:02:23.056138	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0111	40.3866	0.0010	0.0000	6339	0:02:23.315626	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0033	58.4746	0.0000	0.0000	9004	0:02:23.214509	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0004	60.0502	0.0000	0.0000	2905	0:02:23.187186	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0004	59.8061	0.0000	0.0000	2327	0:02:23.185385	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0003	57.7499	0.0000	0.0000	4155	0:02:23.453591	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0015	50.8760	0.0001	0.0000	9659	0:02:23.301028	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0007	60.3694	0.0000	0.0000	7227	0:02:23.358233	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0003	57.8834	0.0000	0.0000	6111	0:02:23.504612	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0033	52.4126	0.0001	0.0000	2338	0:02:23.404747	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0285	35.1829	0.0032	0.0000	3741	0:02:23.332940	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0221	42.4576	0.0006	0.0000	4075	0:02:24.080540	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0323	35.8509	0.0027	0.0000	7415	0:02:24.386291	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0232	38.1983	0.0016	0.0000	3447	0:02:24.194736	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0465	41.2597	0.0008	0.0000	8129	0:02:23.813189	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0406	30.0232	0.0105	0.0001	7329	0:02:23.918401	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0164	41.8190	0.0007	0.0000	4614	0:02:23.534978	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0232	42.2926	0.0006	0.0000	4891	0:02:22.811422	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0295	42.6061	0.0006	0.0000	7262	0:02:24.227117	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0265	38.4005	0.0015	0.0000	2614	0:02:24.276254	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rGaussAWeig19	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0270	41.5394	0.0007	0.0000	1521	0:02:24.826270	torch.float32	1.0		
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0782	35.6340	0.0029	0.0001	4797	0:00:51.071050	torch.float32	0.999989926815033
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0852	33.3485	0.0049	0.0003	2069	0:00:52.087510	torch.float32	0.9999849200248718
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0593	35.2089	0.0032	0.0000	175	0:01:04.317209	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1383	30.4394	0.0095	0.0005	1592	0:01:42.601798	torch.float32	0.9999799132347107
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0387	41.3909	0.0008	0.0000	7697	0:01:46.292401	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0269	37.3257	0.0019	0.0000	4030	0:01:46.125327	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0442	41.5040	0.0007	0.0000	4574	0:01:46.411426	torch.float32	0.999989926815033
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1496	33.2873	0.0049	0.0001	3479	0:01:46.556460	torch.float32	0.999989926815033
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0441	36.9877	0.0021	0.0001	153	0:01:46.324922	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0264	39.1250	0.0013	0.0000	3649	0:01:46.369211	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1288	29.6941	0.0113	0.0012	3474	0:00:50.746616	torch.float32	0.9998493790626526
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2620	25.1696	0.0320	0.0032	8337	0:01:00.141497	torch.float32	0.9997439980506897
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2297	25.3501	0.0307	0.0014	813	0:01:33.932952	torch.float32	0.9997439980506897
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2139	29.5047	0.0118	0.0011	858	0:01:44.945673	torch.float32	0.9998292922973633
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1279	28.8608	0.0137	0.0015	2826	0:01:45.420659	torch.float32	0.9998342990875244
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1251	27.1399	0.0204	0.0021	7294	0:01:45.303833	torch.float32	0.9998041987419128
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2489	28.2475	0.0158	0.0013	4270	0:01:45.544768	torch.float32	0.9998142719268799
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1892	26.6417	0.0228	0.0014	3677	0:01:45.983365	torch.float32	0.9997490048408508
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1239	27.0757	0.0207	0.0010	7166	0:01:45.033746	torch.float32	0.9997891187667847
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2094	30.7820	0.0088	0.0008	3718	0:01:45.556444	torch.float32	0.9998393654823303
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0789	35.5759	0.0029	0.0001	2066	0:00:51.061400	torch.float32	0.999989926815033
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0807	34.8721	0.0034	0.0001	6652	0:01:07.619491	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0460	36.2730	0.0025	0.0000	1751	0:01:44.610528	torch.float32	0.999989926815033
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0381	37.4912	0.0019	0.0001	5748	0:01:46.640819	torch.float32	0.9999849200248718
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0903	30.6157	0.0091	0.0005	3680	0:01:46.719834	torch.float32	0.9999799132347107
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0617	32.0675	0.0065	0.0002	8896	0:01:46.830656	torch.float32	0.9999749064445496
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0183	37.6168	0.0018	0.0000	574	0:01:47.060238	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0301	38.8406	0.0014	0.0000	4547	0:01:46.867358	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0576	34.3210	0.0039	0.0000	4814	0:01:44.850335	torch.float32	0.999989926815033
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0379	38.5673	0.0015	0.0000	8121	0:01:29.187106	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1711	30.9327	0.0085	0.0006	913	0:00:52.678911	torch.float32	0.9998342990875244
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1354	31.8774	0.0068	0.0002	3275	0:01:19.098891	torch.float32	0.9998493790626526
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2188	28.7063	0.0142	0.0009	7526	0:01:45.776545	torch.float32	0.999809205532074
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1455	32.0859	0.0065	0.0004	8636	0:01:47.021878	torch.float32	0.9998945593833923
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2098	32.1034	0.0065	0.0004	9960	0:01:46.739348	torch.float32	0.9998694658279419
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1452	29.8230	0.0110	0.0005	90	0:01:47.016150	torch.float32	0.9998292922973633
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0984	32.5595	0.0058	0.0001	1050	0:01:47.261408	torch.float32	0.9999146461486816
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1770	28.1887	0.0160	0.0011	2876	0:01:47.056167	torch.float32	0.999819278717041
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1779	27.7119	0.0178	0.0013	8957	0:01:46.465622	torch.float32	0.999809205532074
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2222	26.0111	0.0264	0.0026	1616	0:01:35.368041	torch.float32	0.9997841119766235
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0500	35.6670	0.0029	0.0000	6615	0:01:04.618588	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0871	30.7631	0.0088	0.0006	9106	0:01:43.220941	torch.float32	0.9999698400497437
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0675	32.6837	0.0057	0.0001	669	0:01:47.172186	torch.float32	0.9999849200248718
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0813	32.2891	0.0062	0.0002	7718	0:01:46.984537	torch.float32	0.9999749064445496
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0939	28.8255	0.0138	0.0006	2178	0:01:47.165458	torch.float32	0.9999648332595825
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0452	36.2290	0.0025	0.0001	4633	0:01:47.274673	torch.float32	0.999989926815033
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0967	29.9513	0.0107	0.0005	4654	0:01:47.208862	torch.float32	0.9999749064445496
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1050	31.4868	0.0075	0.0002	3178	0:01:46.496535	torch.float32	0.9999598264694214
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0802	33.8782	0.0043	0.0001	201	0:01:29.416213	torch.float32	0.9999849200248718
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0948	31.5888	0.0073	0.0004	4744	0:01:12.622872	torch.float32	0.9999548196792603
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1717	28.1117	0.0163	0.0024	1121	0:01:01.119400	torch.float32	0.9997791051864624
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1462	32.5599	0.0058	0.0005	1496	0:01:36.268144	torch.float32	0.9998041987419128
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1144	34.1575	0.0040	0.0003	8231	0:01:47.518314	torch.float32	0.9998895525932312
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1077	27.4400	0.0190	0.0037	8838	0:01:47.316338	torch.float32	0.999754011631012
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1173	28.6260	0.0145	0.0013	5703	0:01:47.674611	torch.float32	0.9997439980506897
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1596	25.1503	0.0322	0.0044	6129	0:01:47.453434	torch.float32	0.9997339248657227
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1792	27.2835	0.0197	0.0029	275	0:01:48.405564	torch.float32	0.9997239112854004
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1355	31.1828	0.0080	0.0004	245	0:01:47.289489	torch.float32	0.9998342990875244
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1193	34.2932	0.0039	0.0001	2137	0:01:44.781324	torch.float32	0.9998945593833923
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1551	29.2835	0.0124	0.0022	9183	0:01:20.267509	torch.float32	0.9997941851615906
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0695	32.8522	0.0055	0.0005	4222	0:01:28.436384	torch.float32	0.9999648332595825
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1474	31.1100	0.0082	0.0002	2384	0:01:45.721235	torch.float32	0.9999749064445496
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1324	26.9380	0.0213	0.0008	6157	0:01:45.698615	torch.float32	0.9999648332595825
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0464	36.5530	0.0023	0.0001	6255	0:01:45.658061	torch.float32	0.9999849200248718
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0557	34.9770	0.0033	0.0002	6580	0:01:45.617693	torch.float32	0.9999749064445496
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0875	31.1192	0.0081	0.0003	8991	0:01:45.873639	torch.float32	0.9999598264694214
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0333	37.5978	0.0018	0.0000	6558	0:01:45.636938	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1147	31.0283	0.0083	0.0004	3706	0:01:36.683150	torch.float32	0.9999799132347107
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0727	30.9177	0.0085	0.0004	2939	0:01:21.317016	torch.float32	0.9999698400497437
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0137	47.8045	0.0002	0.0000	2499	0:01:03.023031	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1353	31.9364	0.0067	0.0009	3320	0:01:24.874167	torch.float32	0.9998794794082642
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1091	28.8224	0.0138	0.0020	7783	0:01:46.635196	torch.float32	0.9997991919517517
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1402	28.1229	0.0162	0.0011	7080	0:01:47.382933	torch.float32	0.9997690916061401
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1514	29.7660	0.0111	0.0006	858	0:01:46.871734	torch.float32	0.9997791051864624
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1460	25.3115	0.0310	0.0040	1618	0:01:47.470838	torch.float32	0.9997239112854004
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2519	26.4652	0.0238	0.0007	6487	0:01:47.446710	torch.float32	0.9997791051864624
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1401	29.2523	0.0125	0.0010	6415	0:01:47.453608	torch.float32	0.9998041987419128
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1516	29.0227	0.0132	0.0004	6497	0:01:47.054835	torch.float32	0.9998041987419128
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1946	28.0997	0.0163	0.0009	9398	0:01:29.989104	torch.float32	0.9997841119766235
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1612	26.8946	0.0215	0.0009	1337	0:01:01.174093	torch.float32	0.9997841119766235
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0891	30.7981	0.0088	0.0015	4654	0:01:42.686842	torch.float32	0.9999598264694214
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0802	33.0019	0.0053	0.0002	5359	0:01:47.206828	torch.float32	0.9999799132347107
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0450	37.1488	0.0020	0.0001	4574	0:01:47.373871	torch.float32	0.9999849200248718
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0119	40.7771	0.0009	0.0000	9481	0:01:47.221024	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0936	32.7244	0.0056	0.0002	2338	0:01:47.295672	torch.float32	0.9999849200248718
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0708	37.9061	0.0017	0.0001	8360	0:01:47.170454	torch.float32	0.999989926815033
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1110	31.4794	0.0075	0.0003	9077	0:01:47.611460	torch.float32	0.9999698400497437
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0723	32.7464	0.0056	0.0002	7554	0:01:29.777864	torch.float32	0.9999749064445496
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0312	39.4942	0.0012	0.0000	8033	0:01:13.463474	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0968	31.1857	0.0080	0.0006	2209	0:00:53.342663	torch.float32	0.9999749064445496
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1853	25.8659	0.0273	0.0034	7967	0:01:38.649499	torch.float32	0.9998041987419128
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1751	28.9545	0.0134	0.0009	4937	0:01:47.374956	torch.float32	0.9998543858528137
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2003	30.4706	0.0095	0.0012	5415	0:01:47.702436	torch.float32	0.9998543858528137
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1479	29.6557	0.0114	0.0005	5204	0:01:47.690647	torch.float32	0.9998493790626526
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1231	29.7004	0.0113	0.0006	727	0:01:47.556709	torch.float32	0.9998694658279419
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1505	28.1932	0.0160	0.0017	7199	0:01:48.072917	torch.float32	0.9997991919517517
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1100	30.4073	0.0096	0.0004	8504	0:01:47.242822	torch.float32	0.9999096393585205
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1440	28.3481	0.0154	0.0010	2375	0:01:43.585566	torch.float32	0.999819278717041
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2234	28.0206	0.0166	0.0009	8173	0:01:17.472876	torch.float32	0.999819278717041
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1387	30.6230	0.0091	0.0002	2067	0:00:51.317862	torch.float32	0.9998644590377808
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0308	39.4963	0.0012	0.0000	3490	0:01:45.629177	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0665	34.8843	0.0034	0.0001	5373	0:01:45.388827	torch.float32	0.9999849200248718
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0288	38.9779	0.0013	0.0000	4777	0:01:45.482577	torch.float32	0.9999949336051941
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0450	38.0301	0.0017	0.0001	953	0:01:45.456823	torch.float32	0.999989926815033
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0497	33.5441	0.0047	0.0000	7225	0:01:45.793439	torch.float32	0.9999799132347107
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0668	33.3012	0.0049	0.0001	2167	0:01:45.604921	torch.float32	0.9999749064445496
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0852	29.9336	0.0107	0.0002	8248	0:01:41.386280	torch.float32	0.9999497532844543
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1135	30.2971	0.0098	0.0006	6423	0:01:26.220701	torch.float32	0.9999548196792603
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0796	32.8333	0.0055	0.0002	2152	0:01:07.515721	torch.float32	0.9999849200248718
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0549	35.2485	0.0031	0.0001	6657	0:00:49.278784	torch.float32	0.9999849200248718
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1571	26.1369	0.0256	0.0018	7979	0:01:47.174386	torch.float32	0.9997740983963013
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1822	29.1523	0.0128	0.0005	3998	0:01:47.604563	torch.float32	0.9998493790626526
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1896	25.8482	0.0274	0.0014	1828	0:01:47.510830	torch.float32	0.9997841119766235
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0919	28.8590	0.0137	0.0015	461	0:01:47.988578	torch.float32	0.999819278717041
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1205	27.1534	0.0203	0.0015	4219	0:01:47.975305	torch.float32	0.9997490048408508
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1636	34.2778	0.0039	0.0002	1965	0:01:47.666085	torch.float32	0.9998995661735535
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1401	29.9081	0.0108	0.0006	2036	0:01:47.427986	torch.float32	0.9998342990875244
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1608	30.1672	0.0101	0.0005	3048	0:01:32.426030	torch.float32	0.9998594522476196
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1278	29.6057	0.0115	0.0004	9893	0:01:01.525289	torch.float32	0.9997941851615906
+mnist mlp	MNIST	False	1	ALG_rLapPGrad15	0.0001	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1475	30.5862	0.0092	0.0005	8540	0:00:51.561986	torch.float32	0.9998493790626526
+resnet18	CIFAR10	False	1	ALG_rLapPGrad15	0.0004	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2098	8.2422	2.3872	0.0257	2098	0:19:54.748102	torch.float32	0.9999461770057678
+resnet18	CIFAR10	False	1	ALG_rLapPGrad15	0.0004	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2242	8.9377	2.0339	0.0253	8445	0:14:01.179398	torch.float32	0.9999657273292542
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1321	24.7000	0.0540	0.0008	3990	0:31:24.691454	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0151	24.4353	0.0574	0.0008	532	0:31:56.494999	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0175	26.3829	0.0366	0.0001	3452	0:32:19.243793	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0093	23.7842	0.0666	0.0006	8798	0:32:23.947021	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0083	24.4407	0.0573	0.0004	1852	0:32:37.471396	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0064	27.0162	0.0317	0.0008	4435	0:32:52.025244	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rLapPGrad15	0.0004	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2106	10.9873	1.2687	0.0208	4009	0:32:34.197348	torch.float32	0.9999651908874512
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0533	25.1152	0.0490	0.0003	4913	0:32:46.693114	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0386	24.4711	0.0569	0.0002	6629	0:32:40.915877	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0222	20.0211	0.1585	0.0001	184	0:32:38.984681	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0116	24.7033	0.0539	0.0001	5706	0:32:36.249793	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0105	23.3869	0.0730	0.0003	7223	0:32:47.263113	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0065	25.9241	0.0407	0.0003	6610	0:32:58.062129	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rLapPGrad15	0.0004	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2130	7.8283	2.6259	0.0337	3161	0:32:40.301222	torch.float32	0.9999635219573975
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0562	23.3766	0.0732	0.0002	4913	0:32:41.665883	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0194	25.5612	0.0443	0.0003	7868	0:32:34.716878	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0160	23.3658	0.0734	0.0002	2939	0:32:35.486958	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0086	29.1445	0.0194	0.0003	2904	0:32:32.871033	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0146	23.9413	0.0643	0.0002	8909	0:32:44.396423	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0072	23.1768	0.0766	0.0005	8034	0:32:54.653399	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rLapPGrad15	0.0004	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.1889	10.2845	1.4916	0.0172	7318	0:32:36.022776	torch.float32	0.9999683499336243
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0605	23.2301	0.0757	0.0014	9441	0:32:37.674451	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0184	23.8519	0.0656	0.0006	2581	0:32:33.134232	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0179	24.2718	0.0596	0.0005	2879	0:32:31.278358	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0183	28.5675	0.0221	0.0002	4234	0:32:29.151075	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0141	24.6346	0.0548	0.0001	6564	0:32:39.583086	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0059	29.0834	0.0197	0.0004	3395	0:32:51.061811	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rLapPGrad15	0.0004	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.2033	10.0272	1.5826	0.0335	1097	0:32:33.667298	torch.float32	0.9999646544456482
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0534	25.4788	0.0451	0.0003	1376	0:29:42.369267	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0187	28.3895	0.0231	0.0002	7101	0:29:32.629254	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0102	26.1415	0.0387	0.0001	371	0:29:26.565434	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0178	24.7249	0.0537	0.0002	1888	0:29:22.700833	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0090	28.3404	0.0233	0.0001	8620	0:29:24.641140	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0057	30.5279	0.0141	0.0005	1899	0:29:24.396610	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	50000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0713	22.8737	0.0822	0.0004	884	0:27:57.835754	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	90000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0171	30.6572	0.0137	0.0003	9102	0:27:50.604066	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	100000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0265	24.6036	0.0552	0.0005	2356	0:27:40.156686	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	200000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0085	30.1902	0.0152	0.0002	3909	0:27:37.015277	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	300000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0127	21.5105	0.1125	0.0003	969	0:27:00.264436	torch.float32	1.0
+resnet18	CIFAR10	False	1	ALG_rGaussAWeig19	0.0004	400000.0	4	50	1	1	ours	sim	def	equal	loss	randn	0.0001	0.0078	24.1339	0.0615	0.0004	4842	0:26:13.161245	torch.float32	1.0
